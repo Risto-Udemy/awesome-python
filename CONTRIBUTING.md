@@ -1,5 +1,7 @@
 # Contributing
 
+## Please send an email to justSomeBullshit@whatTheHeck.com
+
 Your contributions are always welcome!
 
 ## Guidelines
